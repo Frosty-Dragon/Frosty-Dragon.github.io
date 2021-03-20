@@ -1,0 +1,56 @@
+body{
+    margin: 5ch;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+#Lorem{
+    text-align: center;
+    font-size: x-large;
+}
+#NavBar{
+    position: fixed;
+    top: -1ch;
+    left: 0;
+    z-index: 9999;
+    width: 100%;
+    height: 10ch;
+    background-color: teal;
+    text-align: center;
+}
+table.center{
+    margin-left:auto; 
+    margin-right:auto;
+  }
+#Title{
+    font-size: x-large;
+}
+#Titles{
+    text-align: center;
+}
+#Name{
+    margin-top: -0.5ch;
+    font-size: x-large;
+}
+#Work{
+    margin-top: -5.7ch;
+    /* text-align: right; */
+    /* margin-right: 145ch; */
+    margin-right: 85%;
+    font-size: large;
+}
+#Socials{
+    margin-top: -2.3ch;
+    /* text-align: right; */
+    /* margin-right: 145ch; */
+    margin-left: 85%;
+    font-size: large;
+}
+#HREFWORK, #HREFWORK:hover, #HREFWORK:focus, #HREFWORK:active{
+    text-decoration: none;
+    color: inherit;
+}
+#LoremDIV{
+    margin-left: 7;
+    margin-right: 7ch;
+}
